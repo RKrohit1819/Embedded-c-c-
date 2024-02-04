@@ -1,0 +1,21 @@
+{
+  "DEVICE_ID": "Device_123456",
+  "SSID": "PLANT_BK",
+  "PASSWORD": "Best@#123#",
+  "IP": "192.168.2.10",
+  "SUBNET": "255.255.255.0",
+  "GATEWAY": "192.168.2.1",
+  "DNS": "192.168.3.7",
+  "FTP_SERVER": "192.168.3.19",
+  "FTP_USER": "BESTKOKI/EOL",
+  "FTP_PASSWORD": "koki@1234",
+  "NTP_SERVER": "pool.ntp.org",
+  "GMT_OFFSET_SECOND": 19800,
+  "DAYLIGHT_OFFSET_SECOND": 0,
+  "API_SERVR_PATH": "http://192.168.3.19/eol/module/autoprn/API/api/",
+  "API_KEY": "1234",
+  "OTA_SERVER_API": "http://192.168.3.19/eol/module/OTA/",
+  "OTA_USER": "Admin",	
+  "OTA_PASSKEY": "1234",
+  "CONFIG_UPDATE_COMMAND":1
+}
